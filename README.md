@@ -1,16 +1,16 @@
-## Hi there 👋
+# Kodivio
 
-<!--
-**kodivio/kodivio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kodivio provides free online tools, AI utilities, developer resources, and educational content.
 
-Here are some ideas to get you started:
+🌐 Website: https://kodivio.org
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Popular Tools
+- AI Habit Coach
+- Word Counter
+- Markdown Editor
+- IP Lookup
+
+## Learn
+- AI Automation & Freelancing
+- AWS Cloud Architecture
+- Data Science & LLM Engineering
