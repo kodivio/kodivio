@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://kodivio.org/kodivio.svg" width="64" height="64" alt="Kodivio Logo" />
+<img src="https://kodivio.org/kodivio.svg" width="200" height="100" alt="Kodivio Logo" />
 
 # Kodivio
 
