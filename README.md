@@ -28,7 +28,7 @@ Whether you're a software engineer formatting JSON at 2 AM, a freelancer calcula
 ## 🗂️ Tool Categories
 
 ### 🛠️ Developer Tools
-> [Browse all dev tools →](https://kodivio.org/tools#dev)
+> [Browse all dev tools →](https://kodivio.org/tools#developer-tools)
 
 | Tool | Description |
 |------|-------------|
@@ -69,8 +69,7 @@ Whether you're a software engineer formatting JSON at 2 AM, a freelancer calcula
 
 ---
 
-### 🔐 Crypto & Security Tools
-> [Browse all crypto tools →](https://kodivio.org/tools#crypto)
+### 🔐 Crypto & Security Tools 
 
 | Tool | Description |
 |------|-------------|
@@ -82,8 +81,7 @@ Whether you're a software engineer formatting JSON at 2 AM, a freelancer calcula
 ---
 
 ### 🌐 Network Tools
-> [Browse all net tools →](https://kodivio.org/tools#net)
-
+ 
 | Tool | Description |
 |------|-------------|
 | [What Is My IP](https://kodivio.org/tools/net/what-is-my-ip) | Detect your public IP address |
@@ -92,7 +90,7 @@ Whether you're a software engineer formatting JSON at 2 AM, a freelancer calcula
 ---
 
 ### 💰 Finance & Money Tools
-> [Browse all finance tools →](https://kodivio.org/tools#finance)
+> [Browse all finance tools →](https://kodivio.org/tools#finance-calculators)
 
 | Tool | Description |
 |------|-------------|
@@ -125,7 +123,7 @@ Whether you're a software engineer formatting JSON at 2 AM, a freelancer calcula
 ---
 
 ### ✍️ Text Tools
-> [Browse all text tools →](https://kodivio.org/tools#text)
+> [Browse all text tools →](https://kodivio.org/tools#text-&-writing)
 
 | Tool | Description |
 |------|-------------|
@@ -150,7 +148,7 @@ Whether you're a software engineer formatting JSON at 2 AM, a freelancer calcula
 ---
 
 ### 🖼️ Media & Color Tools
-> [Browse all media tools →](https://kodivio.org/tools#media)
+> [Browse all media tools →](https://kodivio.org/tools#media-&-design)
 
 | Tool | Description |
 |------|-------------|
@@ -170,7 +168,6 @@ Whether you're a software engineer formatting JSON at 2 AM, a freelancer calcula
 ---
 
 ### 🧮 Math Tools
-> [Browse all math tools →](https://kodivio.org/tools/math)
 
 | Tool | Description |
 |------|-------------|
@@ -184,7 +181,6 @@ Whether you're a software engineer formatting JSON at 2 AM, a freelancer calcula
 ---
 
 ### 🩺 Health & Wellness Tools
-> [Browse all health tools →](https://kodivio.org/tools#health)
 
 | Tool | Description |
 |------|-------------|
@@ -211,7 +207,7 @@ Whether you're a software engineer formatting JSON at 2 AM, a freelancer calcula
 ---
 
 ### 🤖 AI Tools
-> [Browse all AI tools →](https://kodivio.org/tools#ai)
+> [Browse all AI tools →](https://kodivio.org/tools#ai-tools)
 
 | Tool | Description |
 |------|-------------|
